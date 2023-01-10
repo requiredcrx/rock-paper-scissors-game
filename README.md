@@ -15,7 +15,8 @@ A simple command-line based Rock, Paper, Scissors game written in Python for fun
 To play the game, clone this repository and run the ```rps.py``` script :
 
 ## Copy code
-```git clone https://github.com/username/rps.git
+```
+git clone https://github.com/username/rps.git
 cd rps
 python rps.py
 ```
